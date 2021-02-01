@@ -1,0 +1,25 @@
+{
+  "name": "scut-mypass",
+  "version": "1.0.0",
+  "description": "华南理工新版mypass系统报平安脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MizarZh/scut-mypass.git"
+  },
+  "author": "MizarZh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MizarZh/scut-mypass/issues"
+  },
+  "homepage": "https://github.com/MizarZh/scut-mypass#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "electron": "^11.2.1",
+    "request": "^2.88.2",
+    "superagent": "^6.1.0"
+  }
+}
